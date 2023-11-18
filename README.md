@@ -25,7 +25,7 @@ I analyzed spotify_dataset in order to answer the following questions
  With the original dataset,the aim was to provide meaningful insights into user preference,track popularity and artist Influence within the spotify platform
 
  The spotify_dataset has 984 rows and 25 different features column.
- ![](spotify_Analysispowerquery.JPG)
+ ![](spotify_Analysis%20powerquery.JPG)
 
 
 -The different features names and description are
@@ -83,6 +83,8 @@ I analyzed spotify_dataset in order to answer the following questions
 ## Data Transformation
 Data was transformed and prepared using powerQuery editor.
 
+Removing unnecessary columns
+
 Ensuring the right data type
 
 Creating new column for date
@@ -102,13 +104,25 @@ Creating new measures(Total Streams,Numbers of tracks,Average beat per minutes)
 
 January has the highest number of streams of 97bn ,and the highest number of tracks with 133, released comapared to other months
 
-##  Top 5  Tracks By streams
+### Top 5  Tracks By streams And Bottom 5 Tracks By Streams
 
 ![](spotify_Top_Tracks.JPG)
 
 ![](spotify_bottom_tracks.JPG)
 
 Blinding light has the highest number of streams of 3.7bn while Que Vuel has the lowest no of streams by 0M
+
+### Top 5 Artist By Number Of Tracks Released
+
+![](bar%20spotify.JPG)
+
+Taylor swift has the highest no of tracks relaesed of 34
+
+
+![](Spotify_Analysis%20Dashboard.png)
+
+
+
 
 
 
