@@ -26,6 +26,94 @@ I analyzed spotify_dataset in order to answer the following questions
 
  The spotify_dataset has 984 rows and 25 different features column.
  ![](spotify_Analysispowerquery.JPG)
+
+
+-The different features names and description are
+
+-Key Features of the Dataset:-
+
+-track_name: Name of the song
+
+-artist_name: Name of the artist of the song
+
+-artist_count: Number of artists contributing to the song
+
+-released_year: Year when the song was released
+
+-released_month: Month when the song was released
+
+-released_day: Day of the month when the song was released
+
+-in_spotify_playlists: Number of Spotify playlists the song is included in
+
+-in_spotify_charts: Presence and rank of the song on Spotify charts
+
+-streams: Total number of streams on Spotify
+
+-in_apple_playlists: Number of Apple Music playlists the song is included in
+
+-in_apple_charts: Presence and rank of the song on Apple Music charts
+
+-in_deezer_playlists: Number of Deezer playlists the song is included in
+
+-in_deezer_charts: Presence and rank of the song on Deezer charts
+
+-in_shazam_charts: Presence and rank of the song on Shazam charts
+
+-bpm: Beats per minute, a measure of song tempo
+
+-key: Key of the song
+
+-mode: Mode of the song (major or minor)
+
+-danceability_%: Percentage indicating how suitable the song is for dancing
+
+-valence_%: Positivity of the song's musical content
+
+-energy_%: Perceived energy level of the song
+
+-acousticness_%: Amount of acoustic sound in the song
+
+-instrumentalness_%: Amount of instrumental content in the song
+
+-liveness_%: Presence of live performance elements
+
+-speechiness_%: Amount of spoken words in the song
+
+## Data Transformation
+Data was transformed and prepared using powerQuery editor.
+
+Ensuring the right data type
+
+Creating new column for date
+
+Removing duplicates values
+
+Creating a new date table and create relationship between the dataset and the table
+
+
+Creating new measures(Total Streams,Numbers of tracks,Average beat per minutes)
+
+## Analysis
+
+### Total strems released by months
+
+![](spotify_Trends_overtime.JPG)
+
+January has the highest number of streams of 97bn ,and the highest number of tracks with 133, released comapared to other months
+
+##  Top 5  Tracks By streams
+
+![](spotify_Top_Tracks.JPG)
+
+![](spotify_bottom_tracks.JPG)
+
+Blinding light has the highest number of streams of 3.7bn while Que Vuel has the lowest no of streams by 0M
+
+
+
+
+ 
    
 
 
