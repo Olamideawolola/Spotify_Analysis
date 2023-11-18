@@ -121,6 +121,25 @@ Taylor swift has the highest no of tracks relaesed of 34
 
 ![](Spotify_Analysis%20Dashboard.png)
 
+More insights can be derived by interacting with the dashboard using  the 'year' slicers
+
+## Insights And Recommendation#
+
+### Popular Music
+
+Binding Lights by the weeknd 'Someone you loved'by Lewis capadi and shape of you by Ed Sheeran are all noteworthy example.It is fascinating to note that while 'Blinding lights' and 'someone you loved are in Cmajor'shape of you takes a different turn with its minor key.These songs have likely found their way into your ears at some point given their widespread recognition.
+
+### Popular Artist
+He is the most streamed artist on spotify.People have listened to his music almost 100 billion times His song 'Binding lights'is the most streamed song.It has been streamed around 3.7 billion times
+
+### Artist With The Highest Number Of Tracks Released
+Taylor swift and the weekend are the artist with highest no of tracks.
+
+
+
+
+
+
 
 
 
