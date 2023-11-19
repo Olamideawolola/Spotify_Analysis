@@ -22,6 +22,8 @@ I analyzed spotify_dataset in order to answer the following questions
  ## Data Sourcing 
  Link to the dataset used
 
+ https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+
  With the original dataset,the aim was to provide meaningful insights into user preference,track popularity and artist Influence within the spotify platform
 
  The spotify_dataset has 984 rows and 25 different features column.
