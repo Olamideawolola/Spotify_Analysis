@@ -1,5 +1,6 @@
 # Spotify_Analysis
-![](spotify_Analysis.jpg)
+
+![](Spotify_background.jpg)
 
 ## Introduction
 Introducing Spotify Analytics Unveiled, the Power BI project that takes you into Spotify's musical realm! 📊🎵 Discover interesting insights from streaming data as we explore the rhythms of the digital space. Take a journey through the musical landscape with the top 5 artists shaping the playlists, uncover the beats behind the top and bottom tracks by streams, and see how monthly releases shape the musical landscapes. Discover the harmonies that make Spotify a unique audio experience as we analyze the stories hidden within the numbers.
