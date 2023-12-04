@@ -126,7 +126,7 @@ Taylor swift has the highest no of tracks relaesed of 34
 
 More insights can be derived by interacting with the dashboard using  the 'year' slicers
 
-## Insights And Recommendation#
+## Insights And Recommendation
 
 ### Popular Music
 
